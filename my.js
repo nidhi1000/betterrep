@@ -1,3 +1,4 @@
 module.exports={
-    msg:"daddy"
+    msg:"daddy",
+    price:"priceless"
 }
